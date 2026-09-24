@@ -1,20 +1,20 @@
-# Hi there, I'm Logan! 👋
+**Welcome, Logan!**
 
-Hey, I'm Logan Brown, a creative frontend engineer from the United States. I love blending art and technology to create interactive and visually stunning web experiences. When I'm not coding, you can find me exploring new art forms, playing with generative art, or just messing around with shaders.
+Hey, I'm Logan, a frontend engineer living in Sweden. When I'm not coding, I love exploring the beautiful Swedish countryside, hiking in the woods, and trying out new Scandinavian recipes in the kitchen. When I do sit down at my desk, I'm usually diving into a new project, experimenting with coding art, or trying to push the boundaries of what's possible with HTML5 Canvas and WebGL.
 
-### What I'm Into:
-- JavaScript
-- HTML5 Canvas
-- WebGL
-- CSS3
+### What I'm into
+
+- Creative coding: I find joy in combining art and code to create interactive installations and experiences.
+- Frontend development: Building responsive, performant, and visually stunning web applications that leave a long-lasting impression.
+- JavaScript: My go-to language for its versatility and the ever-growing ecosystem around it.
+- HTML5 Canvas: A powerful tool for unleashing my creativity and pushing the limits of web development.
+- WebGL: The thrill of three.js and the endless possibilities it brings to web-based graphics.
 
 ### Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![WebGL](https://img.shields.io/badge/-WebGL-0095D5?style=flat-square&logo=webgl&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5 Canvas](https://img.shields.io/badge/-HTML5%20Canvas-323330?style=for-the-badge&logo=HTML5&logoColor=orange)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+[![CSS3](https://img.shields.io/badge/-CSS3-323330?style=for-the-badge&logo=CSS3&logoColor=66D9EF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### Currently Building:
-I'm currently building a generative art web app that uses WebGL to create dynamic, interactive art pieces. Stay tuned!
+### Currently building...
 
-Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀
+A generative art platform using three.js to create stunning, interactive visuals for web experiences. The goal is to push the boundaries of what's possible with web-based graphics and art.
